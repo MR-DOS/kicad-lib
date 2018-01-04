@@ -1,0 +1,143 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148
+D 100V 0.15A standard switching diode, SOD-323
+K switching diode 100V
+F http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf
+$ENDCMP
+#
+$CMP 2N7002
+D 60V Vds, 0.115 A Id, N-channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.mouser.com/ds/2/149/2N7002-8405.pdf
+$ENDCMP
+#
+$CMP AMS1117-3.3
+D 800mA Low-Dropout Linear Regulator, 3.3V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP AMS1117-5.0
+D 800mA Low-Dropout Linear Regulator, 5V fixed output, TO-220/TO-252/TO-263/SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP ATMEGA88-20AU
+D TQFP32, 8k Flash, 512B SRAM, 1k EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2545-8-bit-AVR-Microcontroller-ATmega48-88-168_Datasheet.pdf
+$ENDCMP
+#
+$CMP BC807
+D 45V Vce, 0.8A Ic, PNP, SOT-23
+K  PNP Transistor SOT-23 45V
+F http://www.fairchildsemi.com/ds/BC/BC807.pdf
+$ENDCMP
+#
+$CMP BC817
+D 45V Vce, 0.8A Ic, NPN, SOT-23
+K NPN transistor
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
+$CMP BCP53
+D 80V Vce, 1A Ic, PNP Medium Power Transistor, SOT-223
+K PNP Transistor
+F http://www.onsemi.com/pub_link/Collateral/BCP53T1-D.PDF
+$ENDCMP
+#
+$CMP BSS84
+D -50V Vds, -0.13A Id, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP Crystal_GND3
+D Three pin crystal (GND on pin 3), e.g. in SMD package
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+$CMP EC11_rotary_encoder
+D EC11 incremental quadrature rotary encoder + switch
+K rotary switch encoder switch push button
+F http://docs-europe.electrocomponents.com/webdocs/0f4c/0900766b80f4c221.pdf
+$ENDCMP
+#
+$CMP FS8205
+D FS8205 dual N-MOSFET for battery management
+K liion battery nmos mosfet dual
+F http://www.ic-fortune.com/upload/Download/FS8205-DS-19_EN.pdf
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K LED diode
+$ENDCMP
+#
+$CMP LED_BLU
+D Blue LED
+K blue LED
+$ENDCMP
+#
+$CMP LED_GRN
+D Green LED
+K green LED
+$ENDCMP
+#
+$CMP LED_ORG
+D Orange LED
+K orange LED
+$ENDCMP
+#
+$CMP LED_RED
+D Red LED
+K red LED
+$ENDCMP
+#
+$CMP LED_WHT
+D White LED
+K white LED
+$ENDCMP
+#
+$CMP LED_YEL
+D Yellow LED
+K yellow LED
+$ENDCMP
+#
+$CMP LF33_TO252
+D Positive 500mA 40V Linear Regulator, Fixed Output 3V3, TO-252 (D-PAK)
+K Voltage Regulator 500mA Positive
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/0e/7e/2a/be/bc/4c/bd/CD00000546.pdf/files/CD00000546.pdf/jcr:content/translations/en.CD00000546.pdf
+$ENDCMP
+#
+$CMP NE5532
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl072a.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP TC-1T+
+D RF transformer, 1:2 ratio, one winding with tap, balun
+K RF transformer balun
+F https://ww2.minicircuits.com/pdfs/TC1-1T+.pdf
+$ENDCMP
+#
+$CMP TL072
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl072a.pdf
+$ENDCMP
+#
+#End Doc Library
