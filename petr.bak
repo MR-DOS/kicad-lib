@@ -1012,7 +1012,7 @@
     (property "Value" "LMX2572" (id 1) (at 10.7951 1.3907 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "petr_kicad:QFN-40_EP_6x6_Pitch0.5mm_LMX2572" (id 2) (at -6.35 24.13 0)
+    (property "Footprint" "petr:QFN-40_EP_6x6_Pitch0.5mm_LMX2572" (id 2) (at -6.35 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/lmx2572.pdf" (id 3) (at -6.35 24.13 0)
