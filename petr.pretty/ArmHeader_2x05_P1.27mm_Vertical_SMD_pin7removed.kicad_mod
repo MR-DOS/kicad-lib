@@ -1,6 +1,6 @@
 (footprint "ArmHeader_2x05_P1.27mm_Vertical_SMD_pin7removed" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows")
+  (descr "Surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows")
   (tags "Surface mounted pin header SMD 2x05 1.27mm double row")
   (attr smd)
   (fp_text reference "REF**" (at 0 -4.235) (layer "F.SilkS")
